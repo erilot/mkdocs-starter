@@ -5,7 +5,7 @@
 ##Using image example:
 
 Jing Sun (Collapsed)
-[Jing Sun Collapsed](./images/jing-sun-collapsed.png)
+![Jing Sun Collapsed](./images/jing-sun-collapsed.png)
 
 Jing Sun (Expanded)
-[Jing Sun Expanded](./images/jing-sun-expanded.png)
+![Jing Sun Expanded](./images/jing-sun-expanded.png)
