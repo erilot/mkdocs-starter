@@ -1,0 +1,6 @@
+site_name: Starter Project
+theme: readthedocs
+
+pages:
+  - Home: ./index.md
+  - Using Jing: ./using-jing.md
