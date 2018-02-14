@@ -1,6 +1,9 @@
 site_name: Starter Project
 theme: readthedocs
 
+markdown_extensions:
+  - pymdownx.superfences
+  
 pages:
   - Home: ./index.md
   - Using Jing: ./using-jing.md
